@@ -15,9 +15,17 @@ body
 }
 .pl{
     background-color: var(--primary-color);
-    border-radius: .5rem;
+    border-radius: 2rem;
     color: aqua;
 
+    max-width: 130px;
+    margin: 1rem;
+    text-align: center;
+}
+.sl{
+    border-radius: 2rem;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
     max-width: 130px;
     margin: 1rem;
     text-align: center;
